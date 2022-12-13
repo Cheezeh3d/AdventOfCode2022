@@ -1,0 +1,4 @@
+﻿  AdventOfCode5.cpp
+C:\Users\jacob\OneDrive\Desktop\Advent Of Code 2022\AdventOfCode5\AdventOfCode5.cpp(132,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jacob\OneDrive\Desktop\Advent Of Code 2022\AdventOfCode5\AdventOfCode5.cpp(209,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  AdventOfCode5.vcxproj -> C:\Users\jacob\OneDrive\Desktop\Advent Of Code 2022\AdventOfCode5\x64\Debug\AdventOfCode5.exe
